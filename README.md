@@ -24,7 +24,7 @@ Install these pip packages before running the tool:
 
 ## GIT clone 
 ```bash
-git clone 
+git clone https://github.com/UG-ALOK/clone-web.git
 ```
 ## DIRECTORY OPEN
 ```bash
