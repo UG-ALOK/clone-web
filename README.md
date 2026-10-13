@@ -61,7 +61,7 @@ Archived sites are saved under `./vm_archives/<domain>_<timestamp>/`.
   crawl.
 
 ## Legal / Ethical Use
-
+🙏
 Please read **DISCLAIMER.md** before using this tool. Only archive sites
 you own or have explicit permission to copy, and always respect
 copyright law, each site's Terms of Service, and `robots.txt`.
